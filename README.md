@@ -11,8 +11,8 @@ The simplest way to play the game is to visit the releases page and run the pre-
 ## Screenshots
 ---
 
-![Screenshot 1](https://github.com/Majihime/Super-Boss-Gaiden-Easy-Mode/main/screenshot1.png)
-![Screenshot 2](https://github.com/Majihime/Super-Boss-Gaiden-Easy-Mode/main/screenshot2.png)
+![Screenshot 1](https://github.com/Majihime/Super-Boss-Gaiden-Easy-Mode/blob/master/screenshot1.png)
+![Screenshot 2](https://github.com/Majihime/Super-Boss-Gaiden-Easy-Mode/blob/master/screenshot2.png)
 
 ### Credits
 ---
